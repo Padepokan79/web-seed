@@ -14,7 +14,7 @@
 		<jjwt.version>0.6.0</jjwt.version>
 		<dbcp.version>1.4</dbcp.version>
 		<jetty.version>9.3.4.RC1</jetty.version>
-	    <jackson.version>2.8.10</jackson.version>
+	    <jackson.version>2.13.4.1</jackson.version>
 	    <apache.commons.coll.version>4.1</apache.commons.coll.version>
 	    <apache.commons.lang.version>3.4</apache.commons.lang.version>
 		<ostermiller.version>1.07.00</ostermiller.version>
